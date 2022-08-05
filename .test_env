@@ -1,0 +1,1 @@
+PYNAMODB_CONFIG=$(PWD)/pynamodb_config.py
